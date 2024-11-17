@@ -1,1 +1,2 @@
 go live (live server extension)
+how to signin to git (credential manager)
