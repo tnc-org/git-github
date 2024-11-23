@@ -1,0 +1,3 @@
+git repository status
+create hello world & deploy it
+ways to deploy your website ==> ["github pages", "netlify", "surge"]
